@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ 
+       <!-- <%   if (choosedDay==="tuesday") {%>            ye symbol swictch if case while do while control fllows me use hota hai     --> 
+    <h1 style="color:aqua">it's a <%= choosedDay    %>! </h1>
+    <% } else { %>
+     
+    <h1 style="color: blueviolet;">it's a <%= choosedDay    %>! </h1>
+    <% } %>   
+    </body>
+    </html>
