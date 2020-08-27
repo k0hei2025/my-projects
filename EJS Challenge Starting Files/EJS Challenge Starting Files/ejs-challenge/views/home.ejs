@@ -1,0 +1,12 @@
+<%-include("partiales/header")%>
+<h1>hello</h1> 
+<p><%= oneParagraph %> </p>
+<% for (var i=0;i<userValue.length;i++) { %> 
+
+    <h1><%= userValue[i].tittle %> </h1>
+
+    <p><%= userValue[i].body.substring(0,100)+ "..." %>  <a href="/posts/<%= userValue[i].tittle %> ">readmore</a> </p>
+   
+
+<% } %> 
+<%-include("partiales/footer")%> 
