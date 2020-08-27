@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/home/vaibhav/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3679373953.index
-2097260298.index
-2010673906.index
-2018836036.index
-1585939639.index
-26629593.index
