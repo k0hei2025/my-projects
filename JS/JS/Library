@@ -1,0 +1,5 @@
+Math.random  they take random numberss
+Math.Floor      they take decimal front no they remove decimal no 
+console.log (printf like);
+var.slice(1,5);
+var.ToUpperCase();

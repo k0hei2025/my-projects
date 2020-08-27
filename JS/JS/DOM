@@ -1,0 +1,12 @@
+when you get to perticar tag 
+
+so apply
+
+document.queryselecter("tag name .class #id " );
+and if they are more than one similar tags so
+document.queryselector("a")[array what position they lie ];
+document.getselector only take element;
+
+document.queryselector(your tag ).classList.add("you want anyone class what you add");
+document.queryselector(your tag ).innerHtml.add("tag what youe thing "/tag")
+

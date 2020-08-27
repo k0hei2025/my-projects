@@ -1,0 +1,32 @@
+/****************************tag********************/
+h1
+{
+    color: black;
+}
+
+img:hover
+{
+ background-color: greenyellow;
+}
+
+body{
+    background-color: salmon;
+}
+/************************************************************************BODY*********************************************************************/
+
+.nihon
+{
+    background-color: white;
+    width: 8%;
+    height: 8%;
+}
+.japan
+{
+    background-color:whitesmoke;
+    width: auto;
+    height:auto ;
+}
+.circular
+{
+    border-radius: 100%;
+}

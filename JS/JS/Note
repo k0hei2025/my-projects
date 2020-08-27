@@ -1,0 +1,18 @@
+in array
+
+you use 
+array is 
+
+when youn insert apply push a
+and when delete apply pop 
+queue tpye like
+
+var a = [];
+a.push(1);
+a.push(2);
+
+in push [1,2];
+a.pop(1);
+in poop [2];
+rmain result;
+
