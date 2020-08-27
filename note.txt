@@ -1,0 +1,54 @@
+IN css we (in border some imp dimension coordinates to understand )
+
+1  when you want to edit the border style so in upper and down the first code is work 
+2 and in right and left borders you can code the second code to edit 
+in tages activating priority is goes internal css to external 
+
+
+internal css>external css
+
+1 em = 16px 
+so if example you want 40pixel but in rem so
+
+40/16     2.5 rem
+= 2.5   
+ 
+ 
+ in css imp point to note :+
+ when you apply css styles in any container value what you will take 
+ 
+ so  if two css styles point one container or value so first style will point this container not second
+ example one <H1>
+ 
+ 
+ .color
+ {
+ background-color"red"
+ }
+ 
+ .color
+ {
+ background-color"skyblue";
+ }
+ now in this case it is depend on link
+ 
+ link rel="address " 
+ <h1 class =color> trial </h1>\
+ 
+ 
+ 
+ 
+ 
+ 
+ when you want to add the more than one class so only you have to do is inside the one class call him only like example see
+ 
+ <button type = "button" class =btn btn-dark btn-lg> troap</button>
+  high light it btn btn-dark and btn-lg are two different classes but call in one bracket
+  
+  
+IMP 
+you insert javaScript src in html tag those place where body tag were close they reduce the load of page to much
+and you cant insert javascrp sorce in head because they not see where there performence apply so mind it !!
+you cant insert css linking inside body because they not work  there styling things because tags and oter attritbuts some are bellow or some top so they cant work 
+
+

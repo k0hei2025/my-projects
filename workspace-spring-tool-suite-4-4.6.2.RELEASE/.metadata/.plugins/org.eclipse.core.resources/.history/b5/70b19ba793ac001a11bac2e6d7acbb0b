@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>JSP PAGE</title>
+</head>
+<body>
+<% int a,b,c;
+a=Integer.parseInt(request.getParameter("t1"));
+b = Integer.parseInt(request.getParameter("t2"));
+c = a+b;
+%>
+
+<h1> Add is = <%=c%></h1>
+
+</body>
+</html>

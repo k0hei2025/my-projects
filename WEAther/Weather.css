@@ -1,0 +1,29 @@
+body{
+
+    position: relative;
+    left: 40%;
+    background-image: url("https://media2.giphy.com/media/xT9GEDhzERbjDD15O8/200w.webp?cid=ecf05e47rkr05oh5gli9or3zmkr9iiua03xb58007rffz2op&rid=200w.webp"); 
+background-repeat: no-repeat;    
+background-size: cover;
+height: 100%;
+width: 100%;
+}
+
+#cityINput
+{
+    margin-top: 4rem;
+   
+}
+.btn
+{
+    position: relative;
+    margin-top: 5rem;
+    left: 5rem;
+}
+.name
+{
+    margin: 4rem;
+     font-family: 'Knewave', cursive;
+
+    
+}
